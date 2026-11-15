@@ -1,0 +1,1 @@
+# Nmap 7.99 scan initiated Sun Nov 15 06:49:30 2026 as: /usr/lib/nmap/nmap --privileged --script vuln -p 22,80 -oN nmap_vuln_check.txt scanme.nmap.org
