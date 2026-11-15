@@ -1,0 +1,37 @@
+POST /post HTTP/1.1
+Host: httpbin.org
+User-Agent: curl/8.21.0
+Accept: */*
+Content-Length: 29
+Content-Type: application/x-www-form-urlencoded
+
+user=kapil&token=DubaiSOC2026
+HTTP/1.1 200 OK
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: Retry-After, RateLimit, RateLimit-Policy, WWW-Authenticate
+content-length: 398
+content-type: application/json
+x-content-type-options: nosniff
+date: Sun, 15 Nov 2026 13:10:45 GMT
+
+{
+  "args": {},
+  "headers": {
+    "Accept": "*/*",
+    "Content-Length": "29",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Host": "httpbin.org",
+    "User-Agent": "curl/8.21.0"
+  },
+  "method": "POST",
+  "origin": "92.97.205.238",
+  "url": "http://httpbin.org/post",
+  "data": "",
+  "files": {},
+  "form": {
+    "token": "DubaiSOC2026",
+    "user": "kapil"
+  },
+  "json": null
+}
