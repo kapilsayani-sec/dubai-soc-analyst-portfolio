@@ -17,4 +17,4 @@ All reconnaissance, packet analysis, and log monitoring activities documented in
 | :--- | :--- | :--- | :--- |
 | **01** | [Nmap Network Reconnaissance & Attack Surface Audit](./01-nmap-desc-isr-audit) | Nmap, Kali Linux | **DESC ISR Domain 4** (Network & Communications Security) |
 | **02** | [Wireshark Packet Inspection & Cleartext Protocol Analysis](./02-wireshark-traffic-analysis) | Wireshark, `.pcap` | **DESC ISR Cryptographic Controls** & **DIFC Data Protection** |
-| **03** | [Splunk SIEM Log Monitoring & Brute-Force Detection Playbook](./03-splunk-siem-brute-force-playbook) | Splunk Enterprise, SPL | **DESC ISR Domain 11** (Incident Management & Logging) |
+| **03** | [SIEM SSH Brute-Force Detection & Incident Response Playbook](./03-splunk-siem-brute-force-playbook) | Splunk Enterprise, SPL | **DESC ISR Domain 11** (Incident Management & Logging) |
