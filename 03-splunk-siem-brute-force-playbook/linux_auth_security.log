@@ -1,0 +1,14 @@
+Nov 21 08:12:04 dubai-prod-web01 sshd: Accepted publickey for secops_admin from 10.20.1.15 port 51234 ssh2
+Nov 21 09:01:11 dubai-prod-web01 sshd: Failed password for invalid user admin from 185.220.101.42 port 44102 ssh2
+Nov 21 09:01:13 dubai-prod-web01 sshd: Failed password for invalid user admin from 185.220.101.42 port 44104 ssh2
+Nov 21 09:01:15 dubai-prod-web01 sshd: Failed password for root from 185.220.101.42 port 44109 ssh2
+Nov 21 09:01:17 dubai-prod-web01 sshd: Failed password for root from 185.220.101.42 port 44112 ssh2
+Nov 21 09:01:19 dubai-prod-web01 sshd: Failed password for root from 185.220.101.42 port 44118 ssh2
+Nov 21 09:01:21 dubai-prod-web01 sshd: Failed password for invalid user oracle from 185.220.101.42 port 44122 ssh2
+Nov 21 09:01:23 dubai-prod-web01 sshd: Failed password for invalid user ubuntu from 185.220.101.42 port 44129 ssh2
+Nov 21 09:01:26 dubai-prod-web01 sshd: Failed password for user deploy from 185.220.101.42 port 44135 ssh2
+Nov 21 09:01:29 dubai-prod-web01 sshd: Accepted password for user deploy from 185.220.101.42 port 44140 ssh2
+Nov 21 09:02:05 dubai-prod-web01 sudo: deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/bash
+Nov 21 09:15:44 dubai-prod-web01 sshd: Failed password for root from 91.240.118.172 port 39810 ssh2
+Nov 21 09:15:47 dubai-prod-web01 sshd: Failed password for root from 91.240.118.172 port 39814 ssh2
+Nov 21 09:30:10 dubai-prod-web01 sshd: Accepted publickey for backup_svc from 10.20.1.20 port 53901 ssh2

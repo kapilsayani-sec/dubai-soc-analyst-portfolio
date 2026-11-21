@@ -1,0 +1,13 @@
+=== DUBAI SOC SIEM TRIAGE REPORT: SSH BRUTE-FORCE & COMPROMISE ===
+TOP ATTACKER SOURCE IPS:
+      8 185.220.101.42
+      2 91.240.118.172
+TARGETED USERNAMES:
+      5 root
+      2 admin
+      1 ubuntu
+      1 oracle
+      1 deploy
+SUCCESSFUL BREACH AND ROOT ESCALATION:
+Nov 21 09:01:29 dubai-prod-web01 sshd: Accepted password for user deploy from 185.220.101.42 port 44140 ssh2
+Nov 21 09:02:05 dubai-prod-web01 sudo: deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/bash
